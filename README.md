@@ -1,4 +1,4 @@
-# Kalibrierung-einer-Einstr-mrandwertfunktion
+# Kalibrierung-einer-Einstroemrandwertfunktion
 Diese Arbeit umfasst eine Kalibrierstrategie zum Kalibrieren einer Funktion, welche die Randwerte eines Fluidflussmodells 
 im Kontext der Atmosphärengrenzschichtmodellierung abbildet.
 Auf Basis von Versuchswerten aus einem Windkanalversuch als Trainingsdaten wurden die zuvor via nichlinearer Regression approximierte
